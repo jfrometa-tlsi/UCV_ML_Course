@@ -53,6 +53,10 @@ Sesión 10: La Revolución de los LLMs. Configuración y acceso.
 
 Sesión 11: Agentes de IA. El analista como orquestador de modelos y automatización.
 
+- **Bloque V: Cierre e Integración: Proyecto Final**
+
+Sesión 12: Storytelling y Presentación de Proyecto Final.
+
 ### 🛠️  **Stack Tecnológico**
 
 Para las prácticas utilizaremos las bibliotecas estándar de la industria en Python:
